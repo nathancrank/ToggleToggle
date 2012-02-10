@@ -246,9 +246,9 @@ killall Finder</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>notificationDescription</key>
-					<string></string>
+					<string>Finder will relaunch briefly</string>
 					<key>notificationTitle</key>
-					<string>File Visibility Toggled</string>
+					<string>Hidden File Visibility Toggled</string>
 					<key>priority</key>
 					<integer>0</integer>
 					<key>sticky</key>
@@ -351,7 +351,7 @@ killall Finder</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>1489658E-8ECB-4012-A826-C56086599007</key>
+		<key>3852FACA-B21A-4969-8EDA-1C2A90A4BF83</key>
 		<dict>
 			<key>from</key>
 			<string>3B50FE78-8603-4121-93F2-88077D619B3E - 3B50FE78-8603-4121-93F2-88077D619B3E</string>
