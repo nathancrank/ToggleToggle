@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>330</string>
+	<string>339.2</string>
 	<key>AMApplicationVersion</key>
-	<string>2.2.1</string>
+	<string>2.2.4</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -179,7 +179,7 @@ killall Finder</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.500000:399.000000</string>
+				<string>449.500000:402.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -201,10 +201,10 @@ killall Finder</string>
 					</array>
 				</dict>
 				<key>AMActionVersion</key>
-				<string>1.3.2</string>
+				<string>1.4</string>
 				<key>AMApplication</key>
 				<array>
-					<string>Unknown</string>
+					<string>GrowlHelperApp</string>
 				</array>
 				<key>AMParameterProperties</key>
 				<dict>
@@ -257,7 +257,7 @@ killall Finder</string>
 				<key>BundleIdentifier</key>
 				<string>com.growl.GrowlAction</string>
 				<key>CFBundleVersion</key>
-				<string>1.3.2</string>
+				<string>1.4</string>
 				<key>CanShowSelectedItemsWhenRun</key>
 				<false/>
 				<key>CanShowWhenRun</key>
@@ -269,16 +269,16 @@ killall Finder</string>
 				<key>Class Name</key>
 				<string>AMAppleScriptAction</string>
 				<key>InputUUID</key>
-				<string>8270CB70-70DD-448B-9FD5-103070BBF784</string>
+				<string>1DE29304-E3FB-4A0B-8F5C-6AC09681CC80</string>
 				<key>Keywords</key>
 				<array>
 					<string>Growl</string>
 					<string>Notification</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>FC577A51-E9CF-4A78-BF03-E480CC8E1CAF</string>
+				<string>52C998EB-9902-42C2-B420-C71C989E582A</string>
 				<key>UUID</key>
-				<string>3F6C355B-143F-4F4C-8116-0234797B6403</string>
+				<string>CF92671E-F9A1-496D-A0A0-F44C5D1ADAEF</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>GrowlHelperApp</string>
@@ -338,10 +338,12 @@ killall Finder</string>
 						<string>3</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.500000:216.000000</string>
+				<string>449.500000:219.000000</string>
 				<key>nibPath</key>
 				<string>/Applications/Growl.app/Contents/Library/Automator/Show Growl Notification.action/Contents/Resources/en.lproj/main.nib</string>
 			</dict>
@@ -351,12 +353,12 @@ killall Finder</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>3852FACA-B21A-4969-8EDA-1C2A90A4BF83</key>
+		<key>3E9BA749-4FF7-421C-B445-C1CD651C07DC</key>
 		<dict>
 			<key>from</key>
 			<string>3B50FE78-8603-4121-93F2-88077D619B3E - 3B50FE78-8603-4121-93F2-88077D619B3E</string>
 			<key>to</key>
-			<string>3F6C355B-143F-4F4C-8116-0234797B6403 - 3F6C355B-143F-4F4C-8116-0234797B6403</string>
+			<string>CF92671E-F9A1-496D-A0A0-F44C5D1ADAEF - CF92671E-F9A1-496D-A0A0-F44C5D1ADAEF</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
